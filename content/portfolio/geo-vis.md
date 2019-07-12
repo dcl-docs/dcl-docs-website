@@ -2,9 +2,10 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/cholera_circles_map.png"
-date = "2016-11-05T18:25:22+05:30"
+date = "2019-07-11"
 title = "Geospatial Visualization"
 weight = 1
+direct_to = "https://dcl-geo-vis.stanford.edu/"
 +++
 
-A book on geospatial visualization.
+A book on geospatial data manipulation and visualization, using R and Mapbox

@@ -1,21 +1,25 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+date = "2019-07-12"
+title = "About"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+### Open source content
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+This site collects all open source content created for the Data Challenge Lab (DCL).
 
-![This is me][1]
+The DCL is an intensive, skills-based class in which students of all academic 
+backgrounds master foundational data science skills. Although the class is only
+available to Stanford students, we designed much our content to be open source, 
+with the intent of helping all people learn to effectively work with data.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+### Tested, data-driven curricula
 
-#### Education
+We take a data-driven approach to curriculum development. We continually improve 
+our materials based on detailed feedback provided by our students
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Each quarter, our DCL students provide detailed feedback on every reading and project 
+they complete, as well as on the course itself. We also track how students 
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Each quarter, we update and improve the content for the DCL based on feedback
+from our students. You can see the most recent version of our curriculum [here](https://dcl-2019-04.github.io/curriculum/).
 
-[1]: /img/about.jpg

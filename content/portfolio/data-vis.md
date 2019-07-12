@@ -1,10 +1,11 @@
 +++
-date = "2016-11-05T19:41:01+05:30"
+date = "2019-07-10"
 title = "Data visualization"
 draft = false
 image = "img/portfolio/life_expectancy_africa.png"
 showonlyimage = false
 weight = 1
+direct_to = "https://dcl-data-vis.stanford.edu/"
 +++
 
-A book on data visualization using ggplot2.
+A practical introduction to creating effective visualizations using ggplot2
