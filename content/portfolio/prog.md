@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2019-07-11"
 title = "Functional programming"
 draft = false
-weight = 2
+weight = 3
 direct_to = "https://dcl-prog.stanford.edu/"
 +++
 

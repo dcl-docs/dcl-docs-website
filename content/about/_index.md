@@ -3,23 +3,13 @@ date = "2019-07-12"
 title = "About"
 +++
 
-### Open source content
+This site collects all open source content created for the Data Challenge Lab (DCL). The DCL is an intensive, skills-based class in which students of all academic backgrounds master foundational data science skills. Although the class is only offered at Stanford, much of our content is open source and available to anyone interested in effectively
+working with data.
 
-This site collects all open source content created for the Data Challenge Lab (DCL).
+The DCL functions as a testing ground for educational materials, and so our content
+is not intended to be static. Using the routine feedback our students provide on all aspects of the course, we constantly improve our content. 
 
-The DCL is an intensive, skills-based class in which students of all academic 
-backgrounds master foundational data science skills. Although the class is only
-available to Stanford students, we designed much our content to be open source, 
-with the intent of helping all people learn to effectively work with data.
+The source for all our materials is on GitHub, and we welcome suggestions for improvement. 
+All work referenced here is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-### Tested, data-driven curricula
-
-We take a data-driven approach to curriculum development. We continually improve 
-our materials based on detailed feedback provided by our students
-
-Each quarter, our DCL students provide detailed feedback on every reading and project 
-they complete, as well as on the course itself. We also track how students 
-
-Each quarter, we update and improve the content for the DCL based on feedback
-from our students. You can see the most recent version of our curriculum [here](https://dcl-2019-04.github.io/curriculum/).
 

@@ -4,7 +4,7 @@ title = "Data visualization"
 draft = false
 image = "img/portfolio/life_expectancy_africa.png"
 showonlyimage = false
-weight = 1
+weight = 2
 direct_to = "https://dcl-data-vis.stanford.edu/"
 +++
 
