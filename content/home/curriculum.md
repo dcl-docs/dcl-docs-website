@@ -8,4 +8,4 @@ weight = 1
 direct_to = "https://dcl-2019-04.github.io/curriculum/"
 +++
 
-Our most recent curriculum for the Data Challenge Lab
+The most recent curriculum for the Data Challenge Lab

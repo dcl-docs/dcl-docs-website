@@ -8,4 +8,4 @@ weight = 4
 direct_to = "https://dcl-geo-vis.stanford.edu/"
 +++
 
-A book on geospatial data manipulation and visualization, using R and Mapbox
+An introduction to geospatial data manipulation and visualization using R and Mapbox

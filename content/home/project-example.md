@@ -8,4 +8,4 @@ weight = 5
 direct_to = "https://github.com/dcl-docs/project-example"
 +++
 
-A workflow for projects done in RStudio
+A data science project workflow using RStudio and Make
