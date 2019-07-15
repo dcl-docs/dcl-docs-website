@@ -12,10 +12,10 @@
     {{ partial "social_buttons_in_sidebar.html" . }}
 
     <div class="copyright">
+      <p>{{ .Site.Params.copyrightImage | safeHTML}}</p>
       <p class="credit">
-        {{ with .Site.Params.copyright }}
-          {{ . | safeHTML }}
-        {{ end }}
+        &copy;
+        {{ replace .Site.Params.copyright "{year}" now.Year }}
         {{ partial "attribution.html" . }}
       </p>
     </div>
