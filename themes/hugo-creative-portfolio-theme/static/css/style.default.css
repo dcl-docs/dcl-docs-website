@@ -661,6 +661,7 @@ COPYRIGHT
 .copyright p.credit a {
   color: #999999;
 }
+/*
 @media (max-width: 991px) {
   .copyright p.credit {
     text-align: center !important;
@@ -671,9 +672,7 @@ COPYRIGHT
      text-align: center !important;
   }
 }
-#license {
-  align: left !important;
-}
+*/
 /*
 =====================
 MAIN PORTFOLIO SLIDER

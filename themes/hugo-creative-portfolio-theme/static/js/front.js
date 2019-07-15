@@ -11,7 +11,7 @@ function highlightCurrentPage() {
   $("a[href='" + location.href + "']").parent().addClass("active");
 }
 function makeImagesResponsive() {
-  if (!$("img").hasId("license")) {
+  if ($("img").attr("id") != "license") {
     $("img").addClass("img-responsive");
   }
 }
