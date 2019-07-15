@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "DCL docs"
-  copyright = "&copy;2019 Stanford Data Lab"
+  copyright = '<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="nofollow"><img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" alt="Creative Commons License" id="license"></a><br>&copy;2019 Stanford Data Lab'
   sidebarAbout = [
     "Open source content designed to teach fundamental data science skills"
   ]

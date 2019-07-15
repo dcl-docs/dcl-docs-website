@@ -668,8 +668,11 @@ COPYRIGHT
 }
 @media (max-width: 991px) {
   .copyright {
-    text-align: center !important;
+     text-align: center !important;
   }
+}
+#license {
+  align: left !important;
 }
 /*
 =====================
