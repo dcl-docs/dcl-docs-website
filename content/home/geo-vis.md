@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/cholera_circles_map.png"
+image = "img/home/cholera_circles_map.png"
 date = "2019-07-11"
 title = "Geospatial Visualization"
 weight = 4

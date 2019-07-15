@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/vector-function.png"
+image = "img/home/vector-function.png"
 showonlyimage = false
 date = "2019-07-11"
 title = "Functional programming"
