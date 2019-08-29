@@ -8,4 +8,4 @@ weight = 6
 direct_to = "https://github.com/stanford-datalab/dcl"
 +++
 
-Tools for the DCL
+An R package of tools for the Data Challenge Lab
