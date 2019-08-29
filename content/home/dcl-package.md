@@ -8,4 +8,4 @@ weight = 6
 direct_to = "https://github.com/stanford-datalab/dcl"
 +++
 
-Tools for teaching and learning data science
+Tools for the DCL
