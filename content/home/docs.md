@@ -8,4 +8,4 @@ weight = 6
 direct_to = "https://github.com/dcl-docs/docs/"
 +++
 
-Brief guides and tutorials, including on how to create RStudio code snippets
+Brief guides on topics including RStudio code snippets and pull requests
