@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/home/cholera-circles-map.png"
+image = "img/home/geo-vis.png"
 date = "2019-07-11"
 title = "Geospatial Visualization"
-weight = 4
+weight = 3
 direct_to = "https://dcl-geo-vis.stanford.edu/"
 +++
 

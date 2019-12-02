@@ -2,9 +2,9 @@
 date = "2019-07-10"
 title = "Data visualization"
 draft = false
-image = "img/home/life-expectancy-africa.png"
+image = "img/home/data-vis.png"
 showonlyimage = false
-weight = 2
+weight = 1
 direct_to = "https://dcl-data-vis.stanford.edu/"
 +++
 
