@@ -11,7 +11,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "dcl"
   description = "DCL docs"
   copyrightImage = '<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="nofollow"><img src="../img/cc-by-nc-sa_88x31.png" alt="Creative Commons License" id="license"></a>'
   copyright = "{year} Stanford Data Lab"
