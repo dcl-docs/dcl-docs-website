@@ -4,7 +4,7 @@ title = "dcl package"
 date = "2019-08-27"
 image = ""
 showonlyimage = false
-weight = 8
+weight = 9
 direct_to = "https://github.com/stanford-datalab/dcl"
 +++
 

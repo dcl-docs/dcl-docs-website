@@ -4,7 +4,7 @@ title = "Data Modeling"
 date = "2019-12-02"
 image = "img/home/model.png"
 showonlyimage = false
-weight = 6
+weight = 5
 direct_to = "https://dcl-model.stanford.edu"
 +++
 
